@@ -26,7 +26,7 @@ Los elementos que tiene son los siguientes:
     
 ![EJERCICIO01](https://github.com/nataliadc2000/DominguezCarbajosaD01/assets/147175325/b35bf8b5-887a-4e7e-8303-ebea52827533)
 
-##Ejercicio 1:
+##Ejercicio 2:
 
 Los elementos que tiene son los siguientes:
 - logo:
@@ -43,4 +43,14 @@ Los elementos que tiene son los siguientes:
     - el de -1 donde tendra el funcionamiento de restar 1 al numero de arriba
 
 ![EJERCICIO02](https://github.com/nataliadc2000/DominguezCarbajosaD01/assets/147175325/3a34db25-3563-4494-8bf6-c66db89e2cbf)
+
+##Ejercicio 3:
+
+En este caso es una navegacion entre las pantallas que se han creado en el proyecto que son los siguientes:
+ - Pagina de Home: que es la que ya estaba tanto en el ejercicio 1 como en el ejercicio 2 con el cambio de la navegacion en el header
+ - Pagina de Widgets : que es la que se va a encargar de mostrar los datos de la api en pequeños cuadritos para que se pueda mostrar
+ - Pagina de About: es una pagina libre en donde yo lo unico que he realizado es una muestra de las maneras de comunicarse conmigo como es el telefono o por correo como se muestra en el siguiente codigo:
+   
+![image](https://github.com/nataliadc2000/DominguezCarbajosaD01/assets/147175325/26b7fb6e-9b4d-44b5-89d2-24c447d3a26d)
+En este codido se ve una parte del codigo de la pagina de about donde pone en este caso es el telefono que puedes utilizar para que se comuniquen conmigo
 
