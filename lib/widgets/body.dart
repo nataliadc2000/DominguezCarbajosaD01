@@ -1,9 +1,12 @@
 // import 'package:pro/widget/Carta1.dart';
 // import 'package:ejercicio1/widget/carta2.dart';
 
+// ignore_for_file: prefer_const_constructors
+
 import 'package:ejemploflutter/widgets/btn.dart';
 import 'package:ejemploflutter/widgets/btn2.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/rendering.dart';
 
 class Cuerpo extends StatelessWidget {
   const Cuerpo({super.key});
