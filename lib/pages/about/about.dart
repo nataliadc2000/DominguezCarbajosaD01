@@ -13,7 +13,7 @@ class AboutPage extends StatelessWidget {
               CircleAvatar(
                   radius: 70, backgroundImage: AssetImage('images/arslan.jpg')),
               Text(
-                'Arslan Ali',
+                'Natalia Dominguez',
                 style: TextStyle(
                     fontFamily: 'Pacifico',
                     color: Color(0xfff07b3f),
@@ -44,7 +44,7 @@ class AboutPage extends StatelessWidget {
                     color: Color(0xfff07b3f),
                   ),
                   title: Text(
-                    '+923030508582',
+                    '+34 600609013',
                     style: TextStyle(
                       fontFamily: 'SourceSansPro',
                       color: Color(0xfff07b3f),
@@ -61,7 +61,7 @@ class AboutPage extends StatelessWidget {
                     color: Color(0xfff07b3f),
                   ),
                   title: Text(
-                    'ch.arslan.95@gmail.com',
+                    'ndcarbajosa@gmail.com',
                     style: TextStyle(
                       fontFamily: 'SourceSansPro',
                       color: Color(0xfff07b3f),
